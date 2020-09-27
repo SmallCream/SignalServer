@@ -1,0 +1,5 @@
+*.conf linguist-language=Go
+*.mod linguist-language=Go
+*.sum linguist-language=Go
+*.xml linguist-language=Go
+*.iml linguist-language=Go
