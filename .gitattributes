@@ -6,4 +6,4 @@
 
 *.go linguist-language=go
 
-*.conf linguist-language=go
+*.tpl linguist-language=go
